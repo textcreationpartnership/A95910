@@ -1,0 +1,260 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The victorious proceedings of the Protestants in Ireland; from the beginning of March to this present, being the 22. of the same month. With a letter sent from Master Brian Smith, minister in His Majesties ship called the Banaventure, riding before Kingsaile, which was read in the honourable House of Commons, on Monday the 21. of March 1642. Declaring how the Lord president of Munster, Sir William St. Leger, gave battell to the rebels neere Durgarven, kil'd 2000 men, tooke some of their commanders prisoners, and slew-ten with his owne hands.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1642</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 12 KB of XML-encoded text transcribed from 4 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A95910</idno>
+            <idno type="STC">Wing V348</idno>
+            <idno type="STC">Thomason E141_1</idno>
+            <idno type="STC">ESTC R527</idno>
+            <idno type="EEBO-CITATION">99872825</idno>
+            <idno type="PROQUEST">99872825</idno>
+            <idno type="VID">156550</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A95910)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 156550)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 25:E141[1])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The victorious proceedings of the Protestants in Ireland; from the beginning of March to this present, being the 22. of the same month. With a letter sent from Master Brian Smith, minister in His Majesties ship called the Banaventure, riding before Kingsaile, which was read in the honourable House of Commons, on Monday the 21. of March 1642. Declaring how the Lord president of Munster, Sir William St. Leger, gave battell to the rebels neere Durgarven, kil'd 2000 men, tooke some of their commanders prisoners, and slew-ten with his owne hands.</title>
+                  <author>Smith, Brian, 17th cent.</author>
+               </titleStmt>
+               <extent>[2], 5, [1] p. : ill.  </extent>
+               <publicationStmt>
+                  <publisher>Iohn Wright, in the Old-baily,</publisher>
+                  <pubPlace>Printed at London :</pubPlace>
+                  <date>1642.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>With title page woodcut.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Saintliger, W., --  Sir --  (William), d. 1642 --  Early works to 1800.</term>
+               <term>Protestants --  Ireland --  Early works to 1800.</term>
+               <term>Ireland --  History --  Rebellion of 1641 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-07</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-08</date>
+            <label>Judith Siefring</label>Sampled and proofread</change>
+         <change>
+            <date>2011-08</date>
+            <label>Judith Siefring</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:156550:1"/>
+            <pb facs="tcp:156550:1" rendition="simple:additions"/>
+            <p>The Victorious proceedings of the Proteſtants in IRELAND; from the beginning of <hi>March</hi> to this preſent, being the 22. of the ſame month. With a Letter ſent from Maſter <hi>Brian Smith,</hi> Miniſter in his Majeſties Ship called the <hi>Banaventure,</hi> riding before <hi>Kingſa<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>le,</hi> which was read in the Honourable Houſe of Com<g ref="char:EOLhyphen"/>mons, on Monday the 21. of <hi>March,</hi> 1642. Declaring how the Lord Preſident of <hi>Munſter,</hi> Sir <hi>William</hi> St. <hi>Leger,</hi> gave Battell to the Rebels neere <hi>Durgarven,</hi> kil'd 2000 men, tooke ſome of their Commanders pri<g ref="char:EOLhyphen"/>ſoners, and ſlew ten with his owne hands.</p>
+            <figure>
+               <figDesc>soldier with sword and shield, leading a group of other soldiers</figDesc>
+            </figure>
+            <p>Printed at London for <hi>Iohn Wright,</hi> in the Old-baily. 1642.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:156550:2"/>
+            <pb n="1" facs="tcp:156550:2"/>
+            <head>The victorious proceedings <hi>of</hi> the Proteſtants in <hi>Irelaud,</hi> from the begining of Maech to this preſent being the 22 of the ſame moneth.</head>
+            <p>ON the 27 of February, came all our boates and ſhips ſafely into <hi>Dublin</hi> Harbour, that had beene relieving <hi>Tredah</hi> and thus they declare their voyage, that the two firſt dayes<g ref="char:punc">▪</g> they ſpent in firing ſome ſmall towns by the ſhor<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>-ſide, about the 19 and 20 day, came fo<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>th before the mouth of <hi>Tredath</hi> Harbour, our veſſels being all that caryed proviſion, and more to defend them, the enemy had chained up the H<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rbour with a moſt ſtrong chaine, which our men knowing the wind and tide being faire on the 20 day, man'd out a ſhalop with inſtruments to breake the chaine, and the ſhips to follow in, but the labour of the breaking the chaine, God had prevented, and by that wind and tide that camed our men ſafely in, as could be thouht the ſame wind and tide brake the chaine before our ſhips, even as the ſhalop come, the enemy notwithſtanding with three or more peeces and many other men ſhot at our ſhips with all ſpit, but our men got well with the loſſe onely of ſome five or ſix men, but many of the enemy loſt, but to the great comfort of the City, w<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>o had beene in great diſtreſſe, and not ſo much when o<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>r proviſion come as before, in that the Noble Governour Sir <hi>Alen Tich<g ref="char:EOLhyphen"/>borne</hi> had being in diſtreſſe, gone out againe the enemy and ta<g ref="char:EOLhyphen"/>ken many Cowes and ſheep from them, and loſt but few of his men, a great terrour is he to the enemy as Sir <hi>Charles Coot</hi> is here, that th<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ir very names makes the enemy ſhake, and ma<g ref="char:EOLhyphen"/>ny times have they run at their names themſelves being not neere. But our ſhips have unladen their proviſion, and com<g ref="char:EOLhyphen"/>ming <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>o <hi>Dubli<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </hi> the enemy laboured all could be to ſpoile our m<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n and ſhips by them ſ<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>elets at land, and a ſhip of theirs for that purpoſe at Sea, but our men burnt their ſhip, and to<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ke tooke two peeces, a braſſe and iron one from them, and are
+<pb n="2" facs="tcp:156550:3"/> the day above named come home to us, having victualled <hi>Tre<g ref="char:EOLhyphen"/>dath</hi> for ſix moneths, but are going againe: we have ſome men come from <hi>England</hi> but no money, inſomuch that our City is unreaſonable burdened, to the utter undoing of moſt part of the City, for few houſes have leſſe then 11 12 ſome 30 Soul<g ref="char:EOLhyphen"/>diers in them, and they to pay them money weekely, and ſome not able to find their owne families with bread, but all complaint gives them no relent, which makes great miſery for the preſent, and will be more, in that all their goods being ta<g ref="char:EOLhyphen"/>ken out of theſe poore peoples houſes by the Souldiers, they being not able to give them mony, and ſold by theſe Souldiers, at not the ſeven part what they are wo<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>th, ſo that little they have is conſumed, theſe people left to beggery and heare no<g ref="char:EOLhyphen"/>thing but ſad complaints, and this is more on the Proteſtants then Papiſts the Proteſtants being more poore, what the cauſe of theſe things are, God knows, <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ut ſure none knowes the miſery of warre but thoſe that ſee it, and ſure none will deſire it, if cary<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d as here. But for <hi>Tredath</hi> Sir <hi>Henry Tichburne</hi> hath turned all or moſt of the Papiſts out of the City there, for as in <hi>Dublin</hi> the enemy is ſometimes, <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ay alwayes in ſome ſix miles of us, ſome times more nearer, ou<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap> men have not gone out ſince the laſt I writ to you, but I thinke will as this night goe out to a place where the enemy is very ſtrong, God keep them, I thinke we are ind<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>fferent without danger of their taking us by forces, but fraud which is very much, but <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>amine and ſickeneſſe are like to be our greateſt enemies, in the City publikely is much threatning, they ſend to us indeed the Rebels increaſe ſtill daily, that not any place in <hi>Ireland,</hi> but all are out in great bodies, eſpecially in <hi>Munſter</hi> which was laſt out, they are now moſt ſtrong, the heads of them being Lord <hi>Muſey</hi> and Lord <hi>Roch,</hi> they have among them our Generals Counteſſe priſoner and all his children, which is much griefe to him ſo brave a man. We have report that Sir <hi>Philimon O Neale</hi> was ſo vexed, that he could not ſo preſently take <hi>Tredath,</hi> that for ſpite hee went home and killed all his priſoners, being not leſſe then 4000 but we hope this is not yet true, but certaine w<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap> are, that the Lord <hi>Cranfield</hi> that was priſoner to him; he hath cauſed to
+<pb n="3" facs="tcp:156550:3"/> be ſlaine baſely on a ſudden. Here is like to be much miſery befall in this Kingdome before this warre is at an end, ſome powder is thought is come out of <hi>Spain<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </hi> to the Reb<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ls, elſe could they have not ſo much as they have, more then at truſt. Since the third of March ſome ſhipping hath gone out from us and hath relieved a place called <hi>Wicklow</hi> Caſtle be<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ieged by the Rebels, and is go<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e to relieve another place called <hi>Duncannon,</hi> for our men i<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <hi>Dublin</hi> wee have had no great buſi<g ref="char:EOLhyphen"/>neſſe hapned, onely yeſterday part of our men went out for the field 3000 foot and 500 horſe, and intend to ſtay out ſome time, wee have not heard any thing f<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>om them, I beleeve they have an intent to burne moſt part of the Countrey within 20 miles of <hi>Dublin,</hi> on the Weſt and North ſide<g ref="char:punc">▪</g> wee have in<g ref="char:EOLhyphen"/>telligence that thoſe Rebels increaſe ſtill, ſo that nothing can be expected but a tedious warre; we have intelligence, that <hi>Galloway</hi> is revolted, but there is a Fort poſſeſſed by ſome of ours, that can command the Towne, but this Port is neare <hi>Spaine,</hi> as neare as <hi>Dublin England,</hi> and reliefe may be feared to come from <hi>Spaine</hi> that way as ſome have thought, but ſmall corne by <hi>Wexford.</hi> But we have newes, that ſome of your ſhips are come to our coaſtes to keepe the Seas which will be well if ſo, for much need is ofit: wee have intelligence but ſomething doubtfu<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>l it is that with ſome 150<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap> of the Engliſh landed in <hi>Munster</hi> the Noble Preſident of <hi>Munſter</hi> being before diſtreſ<g ref="char:EOLhyphen"/>ſed by the Re<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>els, but joyning with theſe 1500 from <hi>England,</hi> went againſt the Rebels, being a great multitude l<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d by thd Lord <hi>Mountgarr<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>t,</hi> our men purſued the Rebels killed no leſſe then 2000 of them, but little loſſe on our ſide, and ſome thinke the Lord <hi>Montgarret</hi> himſelfe is killed, but this is ſomething doubtfully reported, but moſt ſay its tru<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>, that are of account, but ſure Iam, that all is like to be very low brought are they are better, and this like to be a tedious warre. We have newes out of the North, but ſomewhat uncertaine, that the Scots have give a defeat to the Rebels there, and killed no leſſe then 1500.</p>
+            <p>We have newes alſo from <hi>Tredath,</hi> that Sir <hi>Henry Tich<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>orne</hi>
+               <pb n="4" facs="tcp:156550:4"/> iſſued out, and beat upon part of the enemies Can<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>pe, on that part where one Collonell <hi>Ma<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Brians</hi> Quarter was a Collonell of the enemy, but with a 1000 men, Sir <hi>Henry</hi> entred battle, the enemy being 3000, ſome ſay 4000, but Sir <hi>Henry</hi> rooted them all, killed foure hundred, tooke two hundred priſoners, and the reſt fled away, ſo now for the preſent hee is not ſo hard beſieged, and hee hath burned 20 townes about him.</p>
+            <p>THe ſecond of <hi>March</hi> we arrived at <hi>Kingſaile,</hi> where we underſtand that in the whole Province of <hi>Mun<g ref="char:EOLhyphen"/>ſter</hi> (which was leaſt ſuſpected) the Iriſh are all revolted. They have ſwept away all the Engliſh Cattell, and ſtrip<g ref="char:EOLhyphen"/>ped them of all naked; in one we<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ke they kil'd 55000. Engliſh ſheepe, and doe vow they will not leave an Engliſh mans Foot, but will quite extripate man beaſt. What they doe about <hi>Dublin,</hi> and in the North we heare not, Colo<g ref="char:EOLhyphen"/>nell <hi>Barry</hi> is made Generall of their Forces in <hi>Munſter;</hi> they have beſieged the City of <hi>Corke</hi> already, and the Town of <hi>Kingſaile,</hi> expected to ſurprized every houre, if the Kings Ships (which keepe them in awe) leave them in har<g ref="char:EOLhyphen"/>bour, the Fort of <hi>Kingſaile</hi> is made a ſtrong place, but they want Men, Money, and Ammunion; on<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ly the Admirall here hath ſupplyed it with victuals and armes for a 100 men for ſix weekes, but the workes there will require above 500. men, <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>o make it good againſt an Army; I con<g ref="char:EOLhyphen"/>ceive it is a place of the greateſt conſequ<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nce in the Pro<g ref="char:EOLhyphen"/>vincce<g ref="char:punc">▪</g> It is lamentable to conſider the want and miſery and feare the poore Engliſh live in at this time; they have betaken themſelvee to ſome places of refuge, as to Caſtle<g ref="char:EOLhyphen"/>haven, <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rook-haven, Baltmore. Bandonbridge is furn<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſhed with 1000. men for ſix moneths, <hi>Corke</hi> for a longer time, <hi>Youghall</hi> is of little ſtrength, the Fort of <hi>Dunca<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>on</hi> is for the King, with a little proviſion for a few day<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s, but if they have not ſpeedy reliefe, they muſt periſh either by Famine
+<pb n="5" facs="tcp:156550:4"/> or Sword. It were endleſſe to relate what ſavage and bar<g ref="char:EOLhyphen"/>barous acts are done by the Iriſh, eſpecially aginſt Mini<g ref="char:EOLhyphen"/>ſters; <hi>I</hi> will but inſtance in one.</p>
+            <p>There 17 more<g ref="char:punc">▪</g> of them came to a Min<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſt<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rs houſe, they ſtript him and his wife naked, bound them backe to b<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ck<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap> cut off his privy members, then one after ano<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>her did <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>a<g ref="char:EOLhyphen"/>viſh her upon her husband backe, th<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n cut both their throats.</p>
+            <p>The Lord <hi>Mackerly,</hi> the Lord <hi>Muſcroe,</hi> the Lord <hi>Roch</hi> &amp;c. after promiſe and proteſtation of their fidelity to the King, and thereupon were furniſhed with ſome Armes and pow<g ref="char:EOLhyphen"/>der, are all turn'd Rebels; there is ſcarce one Iriſh man but is a Rebell.</p>
+            <p>The Lord Preſident of <hi>Munſter</hi> Sir <hi>William</hi> Saint <hi>Leger</hi> went out lately againſt the R<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>bells with ſo many horſe and foot, that his force and Sir Charles <hi>Vavaſers</hi> Regiment joy<g ref="char:EOLhyphen"/>ning together, made 5 or 600 horſe and 3000 foot, th<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>y gave battle to the Rebels neare <hi>Dungarven,</hi> killed neare 2000 men, tooke ſome of the Commanders priſoners; after that they marched to <hi>Dungarven</hi> Caſtle. and tooke it from the Rebels, where was good booty for his Souldiers, where he hath left a Garriſon, and ſome Gunnes to keepe it, and now is approaching <hi>Corke</hi> (if he can) to raiſe that <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>iege. They burne and ſpoile, and raſe all as they goe.</p>
+            <p>My Lord Preſident is very valiant and zealous, it is ſaid he killed ten men with his owne hands. The Iriſh wants Armes as yet, I pray God our beſt endeavours may pre<g ref="char:EOLhyphen"/>vent them. We are all in good health aboard the <hi>Bonadven<g ref="char:EOLhyphen"/>ture.</hi> So with my love to your ſelfe, and to one and all of my friends, in haſte I reſt</p>
+            <closer>
+               <signed>Your very loving brother Brian Smith.</signed>
+               <dateline>
+                  <hi>From a board his Majeſties ſhip the</hi> Bonadventure <hi>riding before</hi> King<g ref="char:EOLhyphen"/>ſale
+<date>
+                     <hi>March</hi> 7. 1641.</date>
+               </dateline>
+            </closer>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
